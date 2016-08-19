@@ -1,5 +1,5 @@
 # LinearGenerator
-Reworked data generator for LinearRoad streaming benchmark that no longer needs mitsim or any database.
+Reworked data generator for LinearRoad streaming benchmark that no longer needs mitsim.
 
 To use the new generator compile the files and run: `java com.walmart.linearroad.generator.LinearGen [-o <output file>] [-x <number of xways>] [-m <dummy value to activate multi-threading>]`
 
